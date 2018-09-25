@@ -1,2 +1,3 @@
 # hello-world
-learrning to use github
+learning to use github
+uoft CS specialist in AI focus (also a STA minor) 
